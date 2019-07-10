@@ -1,0 +1,14 @@
+C:\Users\victo\source\repos\Tarea_07-SuperCajero\Tarea_07-SuperCajero\bin\Debug\Tarea_07-SuperCajero.exe.config
+C:\Users\victo\source\repos\Tarea_07-SuperCajero\Tarea_07-SuperCajero\bin\Debug\Tarea_07-SuperCajero.exe
+C:\Users\victo\source\repos\Tarea_07-SuperCajero\Tarea_07-SuperCajero\bin\Debug\Tarea_07-SuperCajero.pdb
+C:\Users\victo\source\repos\Tarea_07-SuperCajero\Tarea_07-SuperCajero\obj\Debug\Tarea_07-SuperCajero.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\Tarea_07-SuperCajero\Tarea_07-SuperCajero\obj\Debug\Tarea_07_SuperCajero.Properties.Resources.resources
+C:\Users\victo\source\repos\Tarea_07-SuperCajero\Tarea_07-SuperCajero\obj\Debug\Tarea_07-SuperCajero.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\Tarea_07-SuperCajero\Tarea_07-SuperCajero\obj\Debug\Tarea_07-SuperCajero.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Tarea_07-SuperCajero\Tarea_07-SuperCajero\obj\Debug\Tarea_07-SuperCajero.exe
+C:\Users\victo\source\repos\Tarea_07-SuperCajero\Tarea_07-SuperCajero\obj\Debug\Tarea_07-SuperCajero.pdb
+C:\Users\victo\source\repos\Tarea_07-SuperCajero\Tarea_07-SuperCajero\obj\Debug\Tarea_07_SuperCajero.Principal.resources
+C:\Users\victo\source\repos\Tarea_07-SuperCajero\Tarea_07-SuperCajero\obj\Debug\Tarea_07_SuperCajero.Consultas.resources
+C:\Users\victo\source\repos\Tarea_07-SuperCajero\Tarea_07-SuperCajero\obj\Debug\Tarea_07_SuperCajero.Deposito.resources
+C:\Users\victo\source\repos\Tarea_07-SuperCajero\Tarea_07-SuperCajero\obj\Debug\Tarea_07_SuperCajero.Retiro.resources
+C:\Users\victo\source\repos\Tarea_07-SuperCajero\Tarea_07-SuperCajero\obj\Debug\Tarea_07_SuperCajero.Login.resources

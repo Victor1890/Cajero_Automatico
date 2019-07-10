@@ -1,0 +1,9 @@
+["clave no debe estar en blanco"]
+Usted a Retirado 0$ Pesos
+
+Cicuenta Pesos 50$: 1
+Cien Pesos 100$: 0
+Doscientos Pesos 200$: 1
+Quinietos Pesos 500$: 1
+Mil Pesos 1000$: 1
+Dos Mill Pesos 2000$: 0
